@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "870289477717",
+    "project_id": "flutter-coding-test-4a3e4",
+    "storage_bucket": "flutter-coding-test-4a3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870289477717:android:568a5abadb6916414f04dc",
+        "android_client_info": {
+          "package_name": "com.example.bmi_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870289477717-1ivpj1hkj266mpnbf6a2kbjukh49av59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxktwwUavb1hBSSNRlE5DGSNmQh8JPaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870289477717-1ivpj1hkj266mpnbf6a2kbjukh49av59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870289477717-hud04mabfo06l2me9f9g49t6kqhdsf7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bmiTrackerApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870289477717:android:40c4c90c652efe7e4f04dc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_coding_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870289477717-htdrk01rcha5eq0dn7uc4fd2lfl1jr23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_coding_test",
+            "certificate_hash": "cfb89b8a94273fface7efe5f5ca2a5a002fabac1"
+          }
+        },
+        {
+          "client_id": "870289477717-1ivpj1hkj266mpnbf6a2kbjukh49av59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxktwwUavb1hBSSNRlE5DGSNmQh8JPaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870289477717-1ivpj1hkj266mpnbf6a2kbjukh49av59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870289477717-hud04mabfo06l2me9f9g49t6kqhdsf7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bmiTrackerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

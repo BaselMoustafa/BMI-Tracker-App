@@ -1,0 +1,9 @@
+abstract class AddUpdateDeleteBmiResultCubitStates{}
+
+class AddUpdateDeleteBmiResultInitialgState extends AddUpdateDeleteBmiResultCubitStates{}
+class AddUpdateDeleteBmiResultLoadingState extends AddUpdateDeleteBmiResultCubitStates{}
+class AddUpdateDeleteBmiResultSuccessState extends AddUpdateDeleteBmiResultCubitStates{}
+class AddUpdateDeleteBmiResultFailedState extends AddUpdateDeleteBmiResultCubitStates{
+  final String message;
+  AddUpdateDeleteBmiResultFailedState({required this.message});
+}
